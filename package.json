@@ -1,0 +1,22 @@
+{
+  "name": "asincronismo_js",
+  "version": "1.0.0",
+  "description": "Trabajando asincronía con JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "callback",
+    "async",
+    "await",
+    "promise"
+  ],
+  "author": "John Florez",
+  "license": "MIT",
+  "dependencies": {
+    "fetch": "^1.1.0",
+    "node-fetch": "^2.6.1",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
